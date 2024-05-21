@@ -12,7 +12,7 @@ Ensure you have Java installed on your system. You can download it from here.
 Clone this repository to your local machine using:
 sh
 Copy code
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/eagle-vandalize/library-management-system.git
 Navigate to the project directory:
 sh
 Copy code
